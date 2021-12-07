@@ -30,7 +30,7 @@ U 1 1 61AA3DB0
 P 2850 3200
 F 0 "CN2" H 2907 3517 50  0000 C CNN
 F 1 "Barrel_Jack" H 2907 3426 50  0000 C CNN
-F 2 "Connector_BarrelJack:BarrelJack_Horizontal" H 2900 3160 50  0001 C CNN
+F 2 "TICK:BarrelJack_Horizontal" H 2900 3160 50  0001 C CNN
 F 3 "~" H 2900 3160 50  0001 C CNN
 	1    2850 3200
 	1    0    0    -1  
